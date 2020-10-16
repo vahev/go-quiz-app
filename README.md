@@ -1,4 +1,4 @@
-### CLI Quiz Tool
+# CLI Quiz Tool
 
 ## Description
 This Go app consists on a quiz tool in which we take a **csv** file and perform the questions through command line.
